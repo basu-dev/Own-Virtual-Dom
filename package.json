@@ -1,0 +1,26 @@
+{
+  "name": "VDom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "compile":"babel src/main.js --out-file src/compiled.js"
+
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basu-dev/Own-Virtual-Dom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basu-dev/Own-Virtual-Dom/issues"
+  },
+  "homepage": "https://github.com/basu-dev/Own-Virtual-Dom#readme"
+
+}
